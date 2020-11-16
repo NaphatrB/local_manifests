@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	
+  <project name="NaphatrB/android_device_amazon_suez" path="device/amazon/suez" remote="github" revision="cm-12.1" />
+  <project name="NaphatrB/android_device_amazon_mt8173-common" path="device/amazon/mt8173-common" remote="github" revision="cm-12.1" />
+  <project name="NaphatrB/android_kernel_amazon_mt8173-common" path="kernel/amazon/mt8173-common" remote="github" revision="cm-12.1" />
+  <project name="NaphatrB/proprietary_vendor_amazon" path="vendor/amazon" remote="github" revision="cm-12.1" />
+
+</manifest>
